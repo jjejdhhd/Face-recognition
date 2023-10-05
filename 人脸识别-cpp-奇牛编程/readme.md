@@ -29,9 +29,13 @@
 > - [2-流浪地球风格美化完成.rar](https://pan.baidu.com/s/1yPnYLpoVan3dDJISm3Bqsg?pwd=tinr)：完成“项目笔记-后记1”。
 >
 > 环境：Visual Studio 2022
+> 
 > 依赖1-OpenCV4.8.0：可以去[OpenCV官网]()自行下载并解压，可以参考“项目笔记-第7节”。我将其解压后放在了D:\opencv480\。
+> 
 > 依赖2-虹软SDK：需要自行去虹软官网注册并下载[人脸识别SDK](https://ai.arcsoft.com.cn/product/arcface.html)来获取APP_ID、SDK_KEY，并在“faceTool.h”文件中更改，可以参考“项目笔记-第9节”。
+> 
 > 依赖3-视频：由于视频播放需要绝对路径，所以需要在WinHome.cpp最后的按钮点击函数 WinHome::OnBnClickedHomePlayPause() 中更改路径。
+> 
 > 其他：编译运行，看还报啥错就Debug好了。
 
 # 4. 项目评价
