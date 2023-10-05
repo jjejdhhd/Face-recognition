@@ -30,7 +30,7 @@
 >
 > 环境：Visual Studio 2022
 > 
-> 依赖1-OpenCV4.8.0：可以去[OpenCV官网]()自行下载并解压，可以参考“项目笔记-第7节”。我将其解压后放在了D:\opencv480\。
+> 依赖1-OpenCV4.8.0：可以去[OpenCV官网](https://opencv.org/releases/)自行下载并解压，可以参考“项目笔记-第7节”。我将其解压后放在了D:\opencv480\。
 > 
 > 依赖2-虹软SDK：需要自行去虹软官网注册并下载[人脸识别SDK](https://ai.arcsoft.com.cn/product/arcface.html)来获取APP_ID、SDK_KEY，并在“faceTool.h”文件中更改，可以参考“项目笔记-第9节”。
 > 
